@@ -1,0 +1,30 @@
+.ListaDeRepositorios{
+
+}
+.ListaDeRepositorios>a{
+    color:  #539BF5;
+    font-size: 30px;
+    text-decoration: none;
+}
+.ListaDeRepositorios>a>h5{
+    color:  #539BF5;
+    font-size: 30px;
+}
+.ListaDeRepositorios>p{
+    color:  #fff;
+    font-size: 27px;
+}
+
+hr{
+    background-color: #fff;
+    opacity: 0.8;
+    height: 0.5px;
+    border-radius: 5px;
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+
+}
+
+
